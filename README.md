@@ -1,0 +1,3 @@
+Fiz algumas operações usando o Openpyxl: como abrir arquivo, pegar aba atual, pegar célula, editar informação... 
+Tudo resultando em um estudo para um desafio, concluído, de separação de dados no Excel, 
+onde o objetivo é criar uma aba para cada um dos bairros que se tem na base de dados (anexada) e depois separar as informações em respectivas abas.
